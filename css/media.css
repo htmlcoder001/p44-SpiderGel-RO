@@ -1,0 +1,138 @@
+@media screen and (max-width: 991px) {
+  .container {
+    width: 768px;
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .main-nav-item {
+    margin-right: 30px;
+  }
+
+  .navigation-nav-wrap {
+    width: 68%; }
+
+  .navigation-logo-wrap {
+    width: 32%; }
+
+  .comment__ava {
+    width: 13%; }
+
+  .comment__content {
+    width: 87%; }
+
+  .comment.answer {
+    width: 87%; }
+
+  .comment.answer .comment__ava {
+    width: 15%; }
+  .comment.answer .comment__content {
+    width: 85%; }
+
+  .sidebar {
+    display: none; }
+
+  .main {
+    width: auto;
+    margin-right: 0;
+    padding-right: 0;
+    border: none; } }
+@media screen and (max-width: 767px) {
+  .container {
+    width: 320px; }
+
+  .logo {
+    font-size: 22px; }
+
+  .navigation-nav-wrap {
+    display: none; }
+
+  .navigation-logo-wrap {
+    width: 100%; }
+
+  .cont-head .tags {
+    display: none; }
+
+  .title {
+    font-size: 34px; }
+
+  .cont-head {
+    padding-top: 15px; }
+    .cont-head .info {
+      margin: 20px 0; }
+      .cont-head .info .info-item {
+        margin-right: 10px; }
+        .cont-head .info .info-item:first-child {
+          display: none; }
+        .cont-head .info .info-item:last-child {
+          margin-right: 0; }
+
+  .info-item__text {
+    font-size: 13px; }
+
+  .header-media {
+    background-image: url(../img/image1_m.jpg);
+    height: 282px;
+    padding: 25px;
+    margin-bottom: -230px; }
+
+  .note__text {
+    font-size: 17px; }
+
+  .note {
+    padding: 0;
+    border: none; }
+
+  .main {
+    padding-top: 250px; }
+    .main .main-item:nth-child(even) .media {
+      float: none;
+      margin: 0; }
+
+  .sub-title__count {
+    font-size: 26px; }
+
+  .sub-title__text {
+    font-size: 26px; }
+
+  .text {
+    font-size: 16px; }
+
+  .main-item {
+    margin-bottom: 20px; }
+    .main-item .media {
+      float: none;
+      margin: 0; }
+
+  .quote__content {
+    font-size: 19px;
+    line-height: 22px; }
+
+  .quote {
+    margin-bottom: 20px; }
+
+  .compare__item {
+    display: block;
+    width: auto; }
+
+  .compare {
+    width: 80%;
+    margin: 0 auto 40px; }
+    .compare::before {
+      display: none; }
+    .compare .media {
+      position: absolute;
+      bottom: -30px;
+      right: -70px; }
+
+  .comment__ava {
+    width: 23%; }
+
+  .comment__content {
+    width: 77%; }
+
+  .comment.answer .comment__ava {
+    width: 25%; }
+  .comment.answer .comment__content {
+    width: 75%; } }
+
+/*# sourceMappingURL=media.css.map */
